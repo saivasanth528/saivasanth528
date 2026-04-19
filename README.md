@@ -12,7 +12,7 @@
 - 👯 I'm looking to collaborate on **Open source projects**
 - 💬 Ask me about **Java, Kafka, Bigquery, Redshift, Observability**
 - 📫 How to reach me **vasisai128@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19CHBj_zT6V5M474l49lG-k7Tju8wkWe4/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gpNminGVlGcG9eSMCPg4kEO_deNIVXiB/view)
 - ⚡ Fun fact **I love memes**
 
 <h3 align="left">Connect with me:</h3>
